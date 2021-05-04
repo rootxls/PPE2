@@ -1,0 +1,28 @@
+
+header
+{
+	background-color: rgba(221,225,223,0.4);
+	text-align: center;
+	color: white;
+}
+
+li
+{
+	list-style: none;
+	display: inline;
+}
+
+.access a
+{
+	color: #128CF5;
+	font-size: 1.2em;
+	padding: 0 6px 0 6px;
+}
+
+.access a:hover
+{
+	background-color: rgba(175,175,175,0.2);
+	border-radius: 10%;
+	text-decoration: none;
+	padding: 3px 6px 3px 6px;
+}

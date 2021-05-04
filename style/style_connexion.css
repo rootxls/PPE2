@@ -1,0 +1,44 @@
+body
+{
+	background:#647675;
+}
+
+.row {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  
+  width: 40%;
+
+  padding: 10px 20px 10px 20px; 
+  background: rgba(221,225,223,0.4);
+  color: white;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+h1
+{
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+input:invalid {
+   box-shadow: 0 0 2px 1px red;
+}
+
+input
+{
+  color: black!important;
+}
+
+.nocompte
+{
+	color: grey;
+}
+
+.btn
+{
+	background-color: #128CF5!important;
+}
